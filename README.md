@@ -1,4 +1,4 @@
-                                               👋 Greetings everyone, My name is Patryk 👋 
+                                     👋 Greetings everyone, My name is Patryk 👋 
 ------------------------
 - I'm currently learning about data engineering, querying etc. (mostly in azure)
 - I'm proffcient in SQL and comperatively in KQL.
