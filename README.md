@@ -1,4 +1,4 @@
-                                     👋 Greetings everyone, My name is Patryk 👋 
+👋 Greetings everyone, My name is Patryk 👋 
 ------------------------
 - I'm currently learning about data engineering, querying etc. (mostly in azure)
 - Next step is learning programming basics in Python 
