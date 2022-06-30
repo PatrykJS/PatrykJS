@@ -1,7 +1,7 @@
                                      👋 Greetings everyone, My name is Patryk 👋 
 ------------------------
 - I'm currently learning about data engineering, querying etc. (mostly in azure)
-- Next step is Python or PHP maybe
+- Next step is learning programming basics in Python 
 
 If You want to contact me, here is my Email:  PatrykJS@wp.pl
 
